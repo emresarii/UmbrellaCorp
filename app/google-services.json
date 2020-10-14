@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287942037125",
+    "firebase_url": "https://anrdroidproje.firebaseio.com",
+    "project_id": "anrdroidproje",
+    "storage_bucket": "anrdroidproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287942037125:android:fe8c7f327b8155fd17e3ec",
+        "android_client_info": {
+          "package_name": "com.example.umbrellacorp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287942037125-vj7mvpaa8c9la2m82thheuftt0c5gmp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1SoDKDAxYWR96QD3T8JZvmrtcTTq1sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287942037125-vj7mvpaa8c9la2m82thheuftt0c5gmp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
